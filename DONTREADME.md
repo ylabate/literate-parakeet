@@ -46,7 +46,7 @@ si tu lis ce texte tu est déja [**mort**](https://fr.wikipedia.org/wiki/Mort) :
 <br>
 <br>
 <br>
-<br>
+
 # mad
  <div align="center">
   <img src="/data/mad.png" alt="pacontan">
